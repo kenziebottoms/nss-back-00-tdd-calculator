@@ -1,0 +1,27 @@
+{
+  "name": "tdd-calc",
+  "version": "1.0.0",
+  "description": "Construct a simple calculator, using modular structure. Create modules for each operation: add, subtract, multiply, divide, plus a module for pulling in all of those operations, just as you did in the diceroll exercise.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenziebottoms/nss-back-00-tdd-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenziebottoms/nss-back-00-tdd-calculator/issues"
+  },
+  "homepage": "https://github.com/kenziebottoms/nss-back-00-tdd-calculator#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  }
+}
